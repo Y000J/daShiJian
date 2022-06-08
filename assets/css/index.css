@@ -1,0 +1,30 @@
+.layui-footer {
+    text-align: center;
+    font-size: 12px;
+}
+
+.layui-icon {
+    margin-right: 8px;
+}
+
+.layui-nav .layui-nav-more {
+    right: -3px;
+}
+.userinfo{
+    height: 60px;
+    line-height: 60px;
+    padding-left: 20px;
+    font-size: 12px;
+    user-select: none;
+}
+.layui-side-scroll .userinfo{
+    border-bottom: 1px solid #282b33;
+}
+.layui-body iframe{
+    width: 100%;
+    height: 100%;
+}
+.uname{
+    font-size: 16px;
+    padding-right: 5px;
+}
